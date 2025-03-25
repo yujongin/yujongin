@@ -5,7 +5,7 @@
 
 <br>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/C%23-E34F26.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
 <div align="center">
     <a href="https://bellin-yu.tistory.com)">
     <img src="https://img.shields.io/badge/blog-1EBC8F?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
@@ -26,7 +26,8 @@
   </a>
 </div>
 
-<br><br><br><br>
-
-[![jongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujongin)](https://github.com/yujongin/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujongin&layout=compact)
+</br></br></br></br>
+<div align="center">
+    <img src= "https://github-readme-stats.vercel.app/api?username=yujongin&theme=tokyonight"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yujongin&layout=compact&theme=tokyonight"/>
+</div>
